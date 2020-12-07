@@ -187,7 +187,10 @@ public class Dashboard extends JFrame implements ActionListener
         {
             new About().setVisible(true);
         }
-        
+        else if(ae.getSource() == b8)
+        {
+            new Payment().setVisible(true);    
+        }
         else if(ae.getSource() == b9)
         {
             try
