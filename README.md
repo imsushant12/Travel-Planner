@@ -39,7 +39,7 @@ Java Swing along with AWT is used to give the smooth interface of the webpage.
 
 ## References
 
-UI of the webapp resembles general ticket or hotel booking webpage like oyo-rooms or goibibo etc. <b>
+UI of the webapp resembles general ticket or hotel booking webpage like oyo-rooms or goibibo etc. <br>
 The images are taken from free image providing websites like unsplash and pexels.
 
 [Back To The Top](#travel-planner)
