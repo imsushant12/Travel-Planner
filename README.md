@@ -21,6 +21,23 @@
 The objective of the Travel and Tourism Management System Project is to develop a system that automates the processes and activities of a travel and tourism agency. The purpose is to design a system using which one can perform all operations related to traveling and sight-seeing. The system allows one to easily access the relevant information and make necessary travel arrangements. Users can decide about places they want to visit and make bookings online for travel and accommodation.<br>
 Java Swing along with AWT is used to give the smooth interface of the webpage. 
 
+#### Some of the features of this Web-Application:
+
+- Add personal details tab.
+- About tab.
+- Forget Password tab.
+- New User Login.
+- Hotel Details tab.
+- Hotel Booking tab.
+- Open different systems applications like: Calculator, notepad etc.
+- Payment tab (PAYTM)
+- Vacation Package Details tab.
+- Vacation Package booking tab.
+- View booked hotel tab.
+- View booked package tab.
+- View personal details tab.
+
+
 #### Languages and Technologies:
 
 - Backend:
